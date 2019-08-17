@@ -1,0 +1,25 @@
+US1  - Grundlagen der Ultraschalltechnik
+V102 - Drehschwingungen
+V103 - Biegung elastischer Stäbe (nicht ganz sicher; hab Git kaputt gemacht)
+V105 - Das Magnetische Moment (Die Anleitung ist mit 304 benannt, ist aber 105)
+V204 - Wärmeleitfähigkeit von verschiedenen Metallen 
+V206 - Versuch zur Wärmepumpe
+V207 - Kugelfallviskosimeter
+V301 - Leerlaufspannung und Innenwiderstand von Spannungsquellen
+V303 - Lock-IN Verstärker
+V351 - Fourieranalyse und Synthese
+V353 - Relaxationsverhalten eines RC-Schwingkreises
+V354 - Gedämpfte und erzwungene Schwingungen
+V401 - Michelson-Interferometer
+V406 - Beugung am Spalt
+V408 - Geometrische Optik
+V500 - Der Photoeffekt
+V501 und V502 - Elektronen im elektrischen und magnetischen Feld
+V601 - Franck-Hertz-Versuch
+V602 - Röntgenemission und -absorption  
+V606 - Messung der Suszeptibilität paramagnetischer Substanzen
+V701 - Reichweite von Alpha-Strahlung
+V703 - Geiger-Müller-Zählrohr
+V704 - Absorption von Beta- und Gamma-Strahlung
+V800 - Das Oszilloskop (FEHLT NOCH)
+
